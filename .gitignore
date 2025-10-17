@@ -52,3 +52,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# IDE and Editor directories
+.vscode/
+.idea/
+
+# Distribution/Build directories
+.dist/
+dist/
